@@ -1,0 +1,1001 @@
+trial num,Urban or Rural,Call topic,Animals,CF,Probability
+1,Urban,Loud Talking , False,0
+2,Urban,Music , False,0
+3,Urban,Music , False,0
+4,Urban,Music , False,0
+5,Urban,Loud Talking , False,0
+6,Urban,Music , False,0
+7,Urban,Music , False,0
+8,Urban,machinery , False,0
+9,Urban,Music , False,0
+10,Urban,Music , False,0
+11,Urban,Music , False,0
+12,Urban,Music , False,0
+13,Urban,Animals , True,1
+14,Urban,Music , False,1
+15,Urban,machinery , False,1
+16,Urban,Music , False,1
+17,Urban,Music , False,1
+18,Urban,Music , False,1
+19,Urban,machinery , False,1
+20,Urban,machinery , False,1
+21,Urban,Music , False,1
+22,Urban,Music , False,1
+23,Urban,Loud Talking , False,1
+24,Urban,Music , False,1
+25,Urban,Loud Talking , False,1
+26,Urban,Music , False,1
+27,Urban,Music , False,1
+28,Urban,Music , False,1
+29,Urban,Music , False,1
+30,Urban,Animals , True,2
+31,Urban,Music , False,2
+32,Rural,Animals , True,3
+33,Urban,Music , False,3
+34,Rural,Animals , True,4
+35,Urban,Music , False,4
+36,Urban,Music , False,4
+37,Rural,Animals , True,5
+38,Rural,machinery , False,5
+39,Urban,Music , False,5
+40,Urban,Music , False,5
+41,Urban,Music , False,5
+42,Urban,Music , False,5
+43,Urban,Music , False,5
+44,Urban,Animals , True,6
+45,Urban,Music , False,6
+46,Urban,Music , False,6
+47,Urban,Music , False,6
+48,Urban,Music , False,6
+49,Urban,Animals , True,7
+50,Urban,Music , False,7
+51,Urban,Music , False,7
+52,Urban,Music , False,7
+53,Urban,Music , False,7
+54,Urban,Music , False,7
+55,Urban,machinery , False,7
+56,Urban,Music , False,7
+57,Urban,Animals , True,8
+58,Rural,Animals , True,9
+59,Urban,Animals , True,10
+60,Urban,Music , False,10
+61,Urban,machinery , False,10
+62,Urban,Music , False,10
+63,Urban,Loud Talking , False,10
+64,Urban,Animals , True,11
+65,Urban,Music , False,11
+66,Rural,machinery , False,11
+67,Urban,Music , False,11
+68,Urban,Music , False,11
+69,Urban,machinery , False,11
+70,Urban,Music , False,11
+71,Urban,machinery , False,11
+72,Urban,Animals , True,12
+73,Urban,Music , False,12
+74,Urban,Music , False,12
+75,Urban,machinery , False,12
+76,Urban,Music , False,12
+77,Urban,Music , False,12
+78,Urban,Loud Talking , False,12
+79,Rural,machinery , False,12
+80,Urban,Music , False,12
+81,Rural,machinery , False,12
+82,Urban,Music , False,12
+83,Urban,Animals , True,13
+84,Urban,Music , False,13
+85,Urban,Music , False,13
+86,Urban,Music , False,13
+87,Urban,Music , False,13
+88,Urban,Music , False,13
+89,Urban,machinery , False,13
+90,Urban,Animals , True,14
+91,Urban,Music , False,14
+92,Urban,machinery , False,14
+93,Urban,Music , False,14
+94,Rural,machinery , False,14
+95,Urban,Loud Talking , False,14
+96,Urban,machinery , False,14
+97,Urban,Animals , True,15
+98,Urban,Music , False,15
+99,Rural,Music , False,15
+100,Urban,Music , False,15
+101,Urban,Music , False,15
+102,Urban,Music , False,15
+103,Rural,Animals , True,16
+104,Urban,Music , False,16
+105,Urban,Music , False,16
+106,Urban,Music , False,16
+107,Urban,Music , False,16
+108,Urban,Music , False,16
+109,Urban,machinery , False,16
+110,Urban,Music , False,16
+111,Urban,machinery , False,16
+112,Urban,Music , False,16
+113,Urban,Music , False,16
+114,Urban,Music , False,16
+115,Rural,machinery , False,16
+116,Urban,Animals , True,17
+117,Urban,machinery , False,17
+118,Urban,Music , False,17
+119,Urban,Music , False,17
+120,Urban,machinery , False,17
+121,Urban,Animals , True,18
+122,Rural,machinery , False,18
+123,Urban,machinery , False,18
+124,Urban,machinery , False,18
+125,Urban,Music , False,18
+126,Urban,Music , False,18
+127,Urban,Music , False,18
+128,Urban,Music , False,18
+129,Urban,machinery , False,18
+130,Urban,Music , False,18
+131,Urban,Music , False,18
+132,Urban,Music , False,18
+133,Urban,machinery , False,18
+134,Urban,Music , False,18
+135,Urban,machinery , False,18
+136,Urban,Animals , True,19
+137,Urban,machinery , False,19
+138,Urban,Music , False,19
+139,Rural,Music , False,19
+140,Urban,Loud Talking , False,19
+141,Urban,machinery , False,19
+142,Urban,machinery , False,19
+143,Urban,Music , False,19
+144,Urban,machinery , False,19
+145,Urban,machinery , False,19
+146,Urban,Music , False,19
+147,Urban,Music , False,19
+148,Urban,Music , False,19
+149,Urban,Music , False,19
+150,Urban,machinery , False,19
+151,Urban,Music , False,19
+152,Urban,machinery , False,19
+153,Urban,Music , False,19
+154,Urban,Music , False,19
+155,Urban,Music , False,19
+156,Urban,Loud Talking , False,19
+157,Urban,Music , False,19
+158,Urban,Music , False,19
+159,Urban,machinery , False,19
+160,Urban,Music , False,19
+161,Urban,Music , False,19
+162,Urban,Music , False,19
+163,Urban,machinery , False,19
+164,Urban,Music , False,19
+165,Urban,Music , False,19
+166,Urban,Animals , True,20
+167,Urban,Music , False,20
+168,Urban,Music , False,20
+169,Urban,Animals , True,21
+170,Urban,Loud Talking , False,21
+171,Urban,Music , False,21
+172,Urban,Music , False,21
+173,Urban,Music , False,21
+174,Urban,Music , False,21
+175,Urban,Music , False,21
+176,Urban,Music , False,21
+177,Urban,Animals , True,22
+178,Urban,Music , False,22
+179,Urban,Music , False,22
+180,Urban,Loud Talking , False,22
+181,Urban,Music , False,22
+182,Urban,Loud Talking , False,22
+183,Urban,Music , False,22
+184,Urban,Music , False,22
+185,Urban,Music , False,22
+186,Urban,Music , False,22
+187,Urban,Music , False,22
+188,Urban,Music , False,22
+189,Urban,Music , False,22
+190,Urban,Music , False,22
+191,Urban,Music , False,22
+192,Urban,machinery , False,22
+193,Urban,Music , False,22
+194,Urban,Music , False,22
+195,Urban,Music , False,22
+196,Urban,Animals , True,23
+197,Urban,Music , False,23
+198,Urban,Animals , True,24
+199,Urban,machinery , False,24
+200,Urban,Animals , True,25
+201,Urban,Animals , True,26
+202,Urban,Loud Talking , False,26
+203,Urban,machinery , False,26
+204,Urban,Animals , True,27
+205,Urban,Music , False,27
+206,Urban,machinery , False,27
+207,Urban,Music , False,27
+208,Urban,Music , False,27
+209,Urban,Animals , True,28
+210,Urban,Animals , True,29
+211,Urban,Music , False,29
+212,Urban,machinery , False,29
+213,Urban,Music , False,29
+214,Urban,Music , False,29
+215,Urban,machinery , False,29
+216,Urban,Music , False,29
+217,Urban,Loud Talking , False,29
+218,Urban,Animals , True,30
+219,Rural,machinery , False,30
+220,Urban,Music , False,30
+221,Urban,Loud Talking , False,30
+222,Urban,Loud Talking , False,30
+223,Urban,Music , False,30
+224,Rural,machinery , False,30
+225,Urban,Music , False,30
+226,Urban,Music , False,30
+227,Urban,machinery , False,30
+228,Urban,Music , False,30
+229,Urban,Loud Talking , False,30
+230,Urban,machinery , False,30
+231,Urban,Animals , True,31
+232,Urban,Loud Talking , False,31
+233,Urban,Music , False,31
+234,Rural,machinery , False,31
+235,Rural,Animals , True,32
+236,Rural,machinery , False,32
+237,Rural,Music , False,32
+238,Urban,Music , False,32
+239,Urban,Music , False,32
+240,Urban,Music , False,32
+241,Urban,machinery , False,32
+242,Urban,machinery , False,32
+243,Urban,Animals , True,33
+244,Urban,Music , False,33
+245,Urban,Music , False,33
+246,Urban,Music , False,33
+247,Urban,Loud Talking , False,33
+248,Urban,machinery , False,33
+249,Urban,Loud Talking , False,33
+250,Urban,Music , False,33
+251,Urban,Loud Talking , False,33
+252,Urban,Music , False,33
+253,Rural,Animals , True,34
+254,Urban,Animals , True,35
+255,Urban,Music , False,35
+256,Urban,Music , False,35
+257,Rural,Loud Talking , False,35
+258,Urban,Loud Talking , False,35
+259,Rural,machinery , False,35
+260,Urban,Music , False,35
+261,Rural,Music , False,35
+262,Urban,Animals , True,36
+263,Urban,Music , False,36
+264,Urban,Music , False,36
+265,Urban,Music , False,36
+266,Urban,Loud Talking , False,36
+267,Urban,Music , False,36
+268,Urban,Music , False,36
+269,Urban,machinery , False,36
+270,Urban,Music , False,36
+271,Rural,Animals , True,37
+272,Urban,Animals , True,38
+273,Urban,Music , False,38
+274,Urban,Music , False,38
+275,Urban,Music , False,38
+276,Urban,Music , False,38
+277,Urban,machinery , False,38
+278,Urban,Music , False,38
+279,Urban,Music , False,38
+280,Urban,Music , False,38
+281,Urban,Animals , True,39
+282,Urban,Loud Talking , False,39
+283,Urban,Music , False,39
+284,Urban,Music , False,39
+285,Urban,machinery , False,39
+286,Urban,Music , False,39
+287,Urban,Music , False,39
+288,Urban,Loud Talking , False,39
+289,Urban,Music , False,39
+290,Urban,Music , False,39
+291,Urban,Loud Talking , False,39
+292,Urban,Music , False,39
+293,Urban,Animals , True,40
+294,Urban,Loud Talking , False,40
+295,Urban,Loud Talking , False,40
+296,Urban,Animals , True,41
+297,Urban,Music , False,41
+298,Urban,Music , False,41
+299,Urban,Music , False,41
+300,Urban,Music , False,41
+301,Urban,Music , False,41
+302,Urban,Animals , True,42
+303,Urban,Music , False,42
+304,Urban,Animals , True,43
+305,Urban,Music , False,43
+306,Urban,Animals , True,44
+307,Rural,machinery , False,44
+308,Urban,Music , False,44
+309,Urban,Music , False,44
+310,Urban,Music , False,44
+311,Urban,machinery , False,44
+312,Urban,Music , False,44
+313,Urban,Music , False,44
+314,Urban,Music , False,44
+315,Urban,Music , False,44
+316,Urban,Music , False,44
+317,Urban,Loud Talking , False,44
+318,Urban,Animals , True,45
+319,Urban,Animals , True,46
+320,Urban,Music , False,46
+321,Urban,Animals , True,47
+322,Rural,Music , False,47
+323,Urban,Animals , True,48
+324,Urban,Music , False,48
+325,Urban,Music , False,48
+326,Urban,machinery , False,48
+327,Urban,Music , False,48
+328,Rural,machinery , False,48
+329,Urban,machinery , False,48
+330,Urban,machinery , False,48
+331,Rural,Animals , True,49
+332,Urban,Music , False,49
+333,Urban,Music , False,49
+334,Urban,Music , False,49
+335,Urban,Music , False,49
+336,Urban,Music , False,49
+337,Urban,Animals , True,50
+338,Urban,Music , False,50
+339,Urban,Music , False,50
+340,Urban,machinery , False,50
+341,Urban,Music , False,50
+342,Urban,Music , False,50
+343,Urban,Music , False,50
+344,Urban,Music , False,50
+345,Urban,Animals , True,51
+346,Urban,Animals , True,52
+347,Urban,Animals , True,53
+348,Urban,machinery , False,53
+349,Urban,Music , False,53
+350,Urban,Music , False,53
+351,Rural,Animals , True,54
+352,Urban,Animals , True,55
+353,Urban,machinery , False,55
+354,Urban,Animals , True,56
+355,Urban,Music , False,56
+356,Urban,Music , False,56
+357,Urban,Loud Talking , False,56
+358,Urban,Loud Talking , False,56
+359,Rural,machinery , False,56
+360,Urban,Music , False,56
+361,Urban,Music , False,56
+362,Urban,Music , False,56
+363,Urban,Music , False,56
+364,Urban,Music , False,56
+365,Rural,Music , False,56
+366,Urban,Music , False,56
+367,Urban,Music , False,56
+368,Urban,Music , False,56
+369,Urban,Music , False,56
+370,Urban,Loud Talking , False,56
+371,Urban,Animals , True,57
+372,Urban,Music , False,57
+373,Urban,Animals , True,58
+374,Urban,Loud Talking , False,58
+375,Urban,machinery , False,58
+376,Urban,Music , False,58
+377,Urban,Music , False,58
+378,Urban,Music , False,58
+379,Urban,Animals , True,59
+380,Urban,Music , False,59
+381,Urban,Animals , True,60
+382,Urban,machinery , False,60
+383,Rural,machinery , False,60
+384,Urban,Music , False,60
+385,Urban,Music , False,60
+386,Rural,machinery , False,60
+387,Urban,Loud Talking , False,60
+388,Urban,Music , False,60
+389,Urban,machinery , False,60
+390,Urban,Music , False,60
+391,Urban,Loud Talking , False,60
+392,Urban,Animals , True,61
+393,Urban,Music , False,61
+394,Urban,Loud Talking , False,61
+395,Urban,Music , False,61
+396,Urban,machinery , False,61
+397,Urban,machinery , False,61
+398,Urban,Music , False,61
+399,Rural,Loud Talking , False,61
+400,Urban,Loud Talking , False,61
+401,Urban,Animals , True,62
+402,Urban,Music , False,62
+403,Urban,Music , False,62
+404,Urban,Music , False,62
+405,Urban,Music , False,62
+406,Urban,Music , False,62
+407,Urban,Loud Talking , False,62
+408,Urban,Music , False,62
+409,Urban,Music , False,62
+410,Urban,Music , False,62
+411,Urban,Music , False,62
+412,Urban,machinery , False,62
+413,Urban,Music , False,62
+414,Urban,Music , False,62
+415,Urban,Music , False,62
+416,Urban,machinery , False,62
+417,Urban,Animals , True,63
+418,Urban,Music , False,63
+419,Urban,Music , False,63
+420,Urban,Music , False,63
+421,Urban,Music , False,63
+422,Urban,machinery , False,63
+423,Urban,Music , False,63
+424,Urban,Music , False,63
+425,Urban,machinery , False,63
+426,Urban,Music , False,63
+427,Urban,Music , False,63
+428,Urban,Music , False,63
+429,Urban,Music , False,63
+430,Rural,Animals , True,64
+431,Urban,Music , False,64
+432,Urban,machinery , False,64
+433,Rural,machinery , False,64
+434,Urban,Music , False,64
+435,Urban,Music , False,64
+436,Urban,Music , False,64
+437,Urban,Loud Talking , False,64
+438,Urban,Music , False,64
+439,Urban,Music , False,64
+440,Urban,Music , False,64
+441,Urban,Music , False,64
+442,Urban,Music , False,64
+443,Urban,Music , False,64
+444,Rural,machinery , False,64
+445,Urban,Music , False,64
+446,Rural,machinery , False,64
+447,Urban,Loud Talking , False,64
+448,Urban,Animals , True,65
+449,Urban,Music , False,65
+450,Urban,Loud Talking , False,65
+451,Urban,Music , False,65
+452,Urban,Music , False,65
+453,Urban,Music , False,65
+454,Urban,Music , False,65
+455,Urban,Loud Talking , False,65
+456,Urban,Music , False,65
+457,Urban,Music , False,65
+458,Urban,Music , False,65
+459,Urban,Animals , True,66
+460,Urban,machinery , False,66
+461,Urban,Music , False,66
+462,Urban,machinery , False,66
+463,Urban,Music , False,66
+464,Urban,Music , False,66
+465,Urban,Music , False,66
+466,Urban,Loud Talking , False,66
+467,Urban,machinery , False,66
+468,Urban,Loud Talking , False,66
+469,Urban,Loud Talking , False,66
+470,Urban,Music , False,66
+471,Urban,Loud Talking , False,66
+472,Urban,Music , False,66
+473,Urban,Music , False,66
+474,Rural,Animals , True,67
+475,Urban,machinery , False,67
+476,Urban,Music , False,67
+477,Urban,Music , False,67
+478,Urban,Animals , True,68
+479,Rural,Music , False,68
+480,Urban,Music , False,68
+481,Urban,Animals , True,69
+482,Rural,machinery , False,69
+483,Urban,machinery , False,69
+484,Urban,Music , False,69
+485,Urban,machinery , False,69
+486,Urban,Music , False,69
+487,Urban,machinery , False,69
+488,Urban,Loud Talking , False,69
+489,Urban,Animals , True,70
+490,Urban,Music , False,70
+491,Urban,machinery , False,70
+492,Urban,Animals , True,71
+493,Urban,Loud Talking , False,71
+494,Urban,machinery , False,71
+495,Urban,Music , False,71
+496,Urban,Music , False,71
+497,Rural,machinery , False,71
+498,Urban,machinery , False,71
+499,Urban,Animals , True,72
+500,Urban,Music , False,72
+501,Urban,Music , False,72
+502,Urban,Loud Talking , False,72
+503,Urban,Music , False,72
+504,Urban,Music , False,72
+505,Urban,Music , False,72
+506,Urban,machinery , False,72
+507,Urban,Loud Talking , False,72
+508,Rural,machinery , False,72
+509,Urban,Loud Talking , False,72
+510,Urban,Loud Talking , False,72
+511,Urban,Music , False,72
+512,Urban,Animals , True,73
+513,Urban,Music , False,73
+514,Urban,Loud Talking , False,73
+515,Urban,Music , False,73
+516,Urban,Loud Talking , False,73
+517,Urban,Music , False,73
+518,Urban,Music , False,73
+519,Urban,Music , False,73
+520,Urban,Music , False,73
+521,Urban,Music , False,73
+522,Urban,Music , False,73
+523,Rural,machinery , False,73
+524,Urban,Music , False,73
+525,Urban,Music , False,73
+526,Urban,Music , False,73
+527,Urban,Music , False,73
+528,Urban,Music , False,73
+529,Urban,Music , False,73
+530,Urban,Music , False,73
+531,Urban,Music , False,73
+532,Urban,Animals , True,74
+533,Urban,Music , False,74
+534,Urban,Loud Talking , False,74
+535,Urban,machinery , False,74
+536,Urban,machinery , False,74
+537,Urban,Music , False,74
+538,Urban,Music , False,74
+539,Urban,machinery , False,74
+540,Urban,Music , False,74
+541,Urban,Music , False,74
+542,Urban,Music , False,74
+543,Urban,Music , False,74
+544,Urban,Music , False,74
+545,Urban,machinery , False,74
+546,Urban,Music , False,74
+547,Urban,Music , False,74
+548,Urban,Animals , True,75
+549,Urban,Loud Talking , False,75
+550,Urban,machinery , False,75
+551,Urban,machinery , False,75
+552,Urban,Music , False,75
+553,Urban,Music , False,75
+554,Urban,Music , False,75
+555,Urban,Music , False,75
+556,Rural,Animals , True,76
+557,Rural,Animals , True,77
+558,Urban,Music , False,77
+559,Urban,machinery , False,77
+560,Urban,Music , False,77
+561,Urban,Music , False,77
+562,Urban,Music , False,77
+563,Urban,Loud Talking , False,77
+564,Urban,Loud Talking , False,77
+565,Urban,Music , False,77
+566,Urban,Animals , True,78
+567,Urban,Music , False,78
+568,Urban,Animals , True,79
+569,Urban,Loud Talking , False,79
+570,Urban,Loud Talking , False,79
+571,Urban,Music , False,79
+572,Urban,Loud Talking , False,79
+573,Rural,Loud Talking , False,79
+574,Rural,Animals , True,80
+575,Urban,Music , False,80
+576,Urban,Music , False,80
+577,Urban,Animals , True,81
+578,Urban,Music , False,81
+579,Urban,Loud Talking , False,81
+580,Urban,Music , False,81
+581,Urban,Music , False,81
+582,Urban,Music , False,81
+583,Urban,Music , False,81
+584,Urban,Animals , True,82
+585,Urban,Loud Talking , False,82
+586,Urban,machinery , False,82
+587,Urban,Animals , True,83
+588,Urban,machinery , False,83
+589,Urban,Music , False,83
+590,Urban,Animals , True,84
+591,Urban,Music , False,84
+592,Urban,Music , False,84
+593,Urban,Music , False,84
+594,Urban,machinery , False,84
+595,Urban,Loud Talking , False,84
+596,Urban,machinery , False,84
+597,Urban,Music , False,84
+598,Urban,Music , False,84
+599,Urban,Loud Talking , False,84
+600,Urban,Animals , True,85
+601,Urban,Music , False,85
+602,Urban,Animals , True,86
+603,Urban,Loud Talking , False,86
+604,Urban,Loud Talking , False,86
+605,Urban,Music , False,86
+606,Urban,Music , False,86
+607,Rural,Loud Talking , False,86
+608,Urban,Animals , True,87
+609,Rural,machinery , False,87
+610,Urban,machinery , False,87
+611,Urban,Loud Talking , False,87
+612,Urban,Loud Talking , False,87
+613,Urban,Music , False,87
+614,Rural,machinery , False,87
+615,Urban,Music , False,87
+616,Urban,Music , False,87
+617,Urban,machinery , False,87
+618,Urban,machinery , False,87
+619,Urban,Music , False,87
+620,Urban,Music , False,87
+621,Urban,Music , False,87
+622,Urban,Music , False,87
+623,Urban,Music , False,87
+624,Urban,Loud Talking , False,87
+625,Urban,Music , False,87
+626,Urban,Music , False,87
+627,Urban,Music , False,87
+628,Urban,machinery , False,87
+629,Urban,Music , False,87
+630,Urban,Music , False,87
+631,Urban,Music , False,87
+632,Urban,machinery , False,87
+633,Urban,Music , False,87
+634,Urban,Animals , True,88
+635,Urban,Music , False,88
+636,Urban,Music , False,88
+637,Urban,Animals , True,89
+638,Urban,Music , False,89
+639,Urban,Animals , True,90
+640,Urban,Animals , True,91
+641,Rural,Music , False,91
+642,Urban,Music , False,91
+643,Rural,Animals , True,92
+644,Urban,machinery , False,92
+645,Urban,Loud Talking , False,92
+646,Urban,Music , False,92
+647,Urban,Loud Talking , False,92
+648,Urban,machinery , False,92
+649,Urban,Animals , True,93
+650,Urban,Music , False,93
+651,Urban,Animals , True,94
+652,Urban,Music , False,94
+653,Urban,Music , False,94
+654,Urban,Music , False,94
+655,Urban,machinery , False,94
+656,Urban,Music , False,94
+657,Urban,Music , False,94
+658,Urban,Music , False,94
+659,Urban,Music , False,94
+660,Rural,Animals , True,95
+661,Urban,Music , False,95
+662,Urban,Animals , True,96
+663,Urban,Loud Talking , False,96
+664,Urban,machinery , False,96
+665,Urban,Animals , True,97
+666,Urban,Music , False,97
+667,Urban,Music , False,97
+668,Urban,Animals , True,98
+669,Rural,Music , False,98
+670,Urban,Animals , True,99
+671,Rural,Loud Talking , False,99
+672,Urban,Music , False,99
+673,Urban,machinery , False,99
+674,Urban,Music , False,99
+675,Urban,Music , False,99
+676,Urban,Music , False,99
+677,Urban,machinery , False,99
+678,Rural,Animals , True,100
+679,Urban,Music , False,100
+680,Urban,Loud Talking , False,100
+681,Urban,machinery , False,100
+682,Urban,Music , False,100
+683,Urban,Music , False,100
+684,Urban,Music , False,100
+685,Urban,Music , False,100
+686,Urban,Loud Talking , False,100
+687,Urban,Animals , True,101
+688,Urban,Music , False,101
+689,Urban,machinery , False,101
+690,Urban,Loud Talking , False,101
+691,Urban,Music , False,101
+692,Urban,Animals , True,102
+693,Urban,Music , False,102
+694,Urban,Animals , True,103
+695,Urban,machinery , False,103
+696,Urban,Loud Talking , False,103
+697,Rural,Animals , True,104
+698,Urban,machinery , False,104
+699,Urban,Music , False,104
+700,Urban,Music , False,104
+701,Rural,machinery , False,104
+702,Urban,machinery , False,104
+703,Urban,Music , False,104
+704,Urban,Loud Talking , False,104
+705,Urban,machinery , False,104
+706,Urban,Music , False,104
+707,Urban,Music , False,104
+708,Urban,Music , False,104
+709,Urban,machinery , False,104
+710,Urban,Music , False,104
+711,Urban,Music , False,104
+712,Urban,Music , False,104
+713,Urban,Music , False,104
+714,Urban,Music , False,104
+715,Urban,Music , False,104
+716,Urban,Music , False,104
+717,Urban,machinery , False,104
+718,Urban,Music , False,104
+719,Rural,machinery , False,104
+720,Urban,Music , False,104
+721,Rural,machinery , False,104
+722,Urban,Music , False,104
+723,Urban,Music , False,104
+724,Urban,machinery , False,104
+725,Urban,Music , False,104
+726,Rural,Animals , True,105
+727,Rural,machinery , False,105
+728,Urban,Music , False,105
+729,Rural,Music , False,105
+730,Urban,machinery , False,105
+731,Rural,Animals , True,106
+732,Urban,Animals , True,107
+733,Urban,Animals , True,108
+734,Urban,machinery , False,108
+735,Rural,machinery , False,108
+736,Urban,Animals , True,109
+737,Rural,machinery , False,109
+738,Urban,Music , False,109
+739,Urban,machinery , False,109
+740,Urban,Music , False,109
+741,Urban,Animals , True,110
+742,Rural,Music , False,110
+743,Urban,Music , False,110
+744,Urban,Music , False,110
+745,Rural,Music , False,110
+746,Urban,Animals , True,111
+747,Urban,Music , False,111
+748,Urban,Loud Talking , False,111
+749,Urban,machinery , False,111
+750,Urban,Animals , True,112
+751,Urban,Music , False,112
+752,Urban,Music , False,112
+753,Urban,Music , False,112
+754,Urban,machinery , False,112
+755,Rural,Music , False,112
+756,Urban,machinery , False,112
+757,Urban,Animals , True,113
+758,Urban,Music , False,113
+759,Urban,Animals , True,114
+760,Rural,Music , False,114
+761,Urban,Animals , True,115
+762,Urban,Animals , True,116
+763,Urban,Music , False,116
+764,Urban,Music , False,116
+765,Urban,machinery , False,116
+766,Urban,Music , False,116
+767,Urban,Animals , True,117
+768,Urban,Music , False,117
+769,Urban,Music , False,117
+770,Urban,Music , False,117
+771,Urban,machinery , False,117
+772,Urban,Animals , True,118
+773,Urban,machinery , False,118
+774,Urban,Loud Talking , False,118
+775,Urban,Music , False,118
+776,Urban,Music , False,118
+777,Urban,Music , False,118
+778,Urban,Music , False,118
+779,Urban,Animals , True,119
+780,Urban,Music , False,119
+781,Urban,machinery , False,119
+782,Urban,Music , False,119
+783,Urban,Music , False,119
+784,Urban,Music , False,119
+785,Urban,machinery , False,119
+786,Urban,Music , False,119
+787,Urban,machinery , False,119
+788,Urban,Music , False,119
+789,Urban,Music , False,119
+790,Rural,machinery , False,119
+791,Urban,Music , False,119
+792,Urban,Music , False,119
+793,Urban,Music , False,119
+794,Urban,machinery , False,119
+795,Rural,machinery , False,119
+796,Urban,Loud Talking , False,119
+797,Urban,Loud Talking , False,119
+798,Urban,Animals , True,120
+799,Urban,Music , False,120
+800,Urban,Music , False,120
+801,Urban,Animals , True,121
+802,Urban,machinery , False,121
+803,Rural,Animals , True,122
+804,Urban,Loud Talking , False,122
+805,Urban,Animals , True,123
+806,Urban,Music , False,123
+807,Urban,Loud Talking , False,123
+808,Urban,Animals , True,124
+809,Rural,Animals , True,125
+810,Urban,machinery , False,125
+811,Urban,Animals , True,126
+812,Urban,Music , False,126
+813,Urban,Music , False,126
+814,Urban,Music , False,126
+815,Urban,Music , False,126
+816,Urban,Music , False,126
+817,Urban,machinery , False,126
+818,Urban,Music , False,126
+819,Urban,Loud Talking , False,126
+820,Urban,Animals , True,127
+821,Urban,Music , False,127
+822,Urban,Music , False,127
+823,Urban,Music , False,127
+824,Urban,Music , False,127
+825,Urban,Music , False,127
+826,Urban,Animals , True,128
+827,Urban,Music , False,128
+828,Urban,Music , False,128
+829,Urban,Music , False,128
+830,Urban,Animals , True,129
+831,Urban,machinery , False,129
+832,Urban,Music , False,129
+833,Urban,Music , False,129
+834,Urban,machinery , False,129
+835,Urban,Music , False,129
+836,Urban,Animals , True,130
+837,Urban,Animals , True,131
+838,Rural,Music , False,131
+839,Urban,machinery , False,131
+840,Urban,Loud Talking , False,131
+841,Urban,Animals , True,132
+842,Urban,Music , False,132
+843,Urban,Animals , True,133
+844,Rural,machinery , False,133
+845,Urban,machinery , False,133
+846,Urban,Music , False,133
+847,Urban,Loud Talking , False,133
+848,Urban,Music , False,133
+849,Urban,Music , False,133
+850,Urban,Animals , True,134
+851,Urban,machinery , False,134
+852,Urban,Music , False,134
+853,Urban,Music , False,134
+854,Urban,Music , False,134
+855,Urban,Music , False,134
+856,Urban,machinery , False,134
+857,Urban,Animals , True,135
+858,Urban,Music , False,135
+859,Urban,Loud Talking , False,135
+860,Urban,machinery , False,135
+861,Rural,machinery , False,135
+862,Urban,machinery , False,135
+863,Urban,Animals , True,136
+864,Urban,Animals , True,137
+865,Urban,Music , False,137
+866,Urban,Animals , True,138
+867,Urban,Music , False,138
+868,Urban,machinery , False,138
+869,Urban,machinery , False,138
+870,Urban,machinery , False,138
+871,Urban,machinery , False,138
+872,Rural,Music , False,138
+873,Urban,Music , False,138
+874,Urban,machinery , False,138
+875,Urban,Animals , True,139
+876,Urban,Loud Talking , False,139
+877,Urban,Music , False,139
+878,Urban,Music , False,139
+879,Rural,Animals , True,140
+880,Urban,Music , False,140
+881,Urban,Animals , True,141
+882,Urban,machinery , False,141
+883,Urban,Music , False,141
+884,Urban,Music , False,141
+885,Urban,Music , False,141
+886,Urban,Music , False,141
+887,Urban,Music , False,141
+888,Urban,Music , False,141
+889,Urban,machinery , False,141
+890,Urban,machinery , False,141
+891,Urban,Animals , True,142
+892,Urban,Animals , True,143
+893,Urban,Loud Talking , False,143
+894,Urban,Music , False,143
+895,Urban,Animals , True,144
+896,Urban,Loud Talking , False,144
+897,Urban,Music , False,144
+898,Urban,machinery , False,144
+899,Urban,Music , False,144
+900,Urban,Animals , True,145
+901,Urban,Music , False,145
+902,Urban,Music , False,145
+903,Urban,Animals , True,146
+904,Rural,machinery , False,146
+905,Urban,Music , False,146
+906,Urban,Music , False,146
+907,Urban,Animals , True,147
+908,Urban,Music , False,147
+909,Urban,Music , False,147
+910,Urban,Loud Talking , False,147
+911,Urban,Music , False,147
+912,Urban,machinery , False,147
+913,Urban,Animals , True,148
+914,Rural,Animals , True,149
+915,Rural,machinery , False,149
+916,Urban,Music , False,149
+917,Urban,Music , False,149
+918,Urban,Music , False,149
+919,Urban,Music , False,149
+920,Urban,Music , False,149
+921,Urban,Loud Talking , False,149
+922,Urban,Loud Talking , False,149
+923,Rural,Animals , True,150
+924,Urban,Music , False,150
+925,Urban,Animals , True,151
+926,Rural,machinery , False,151
+927,Urban,machinery , False,151
+928,Rural,Animals , True,152
+929,Urban,Animals , True,153
+930,Urban,Animals , True,154
+931,Urban,Animals , True,155
+932,Rural,Music , False,155
+933,Urban,Loud Talking , False,155
+934,Urban,machinery , False,155
+935,Urban,Loud Talking , False,155
+936,Urban,machinery , False,155
+937,Urban,Music , False,155
+938,Urban,Music , False,155
+939,Urban,Loud Talking , False,155
+940,Urban,Music , False,155
+941,Urban,Music , False,155
+942,Urban,Music , False,155
+943,Urban,Loud Talking , False,155
+944,Urban,Music , False,155
+945,Rural,machinery , False,155
+946,Urban,Music , False,155
+947,Urban,machinery , False,155
+948,Urban,Music , False,155
+949,Urban,machinery , False,155
+950,Urban,machinery , False,155
+951,Urban,Animals , True,156
+952,Urban,Music , False,156
+953,Urban,Music , False,156
+954,Urban,Music , False,156
+955,Urban,Animals , True,157
+956,Rural,Music , False,157
+957,Urban,Music , False,157
+958,Urban,Music , False,157
+959,Urban,Loud Talking , False,157
+960,Urban,Animals , True,158
+961,Urban,Music , False,158
+962,Urban,machinery , False,158
+963,Urban,Animals , True,159
+964,Urban,Music , False,159
+965,Urban,machinery , False,159
+966,Urban,Music , False,159
+967,Urban,Music , False,159
+968,Urban,Animals , True,160
+969,Urban,machinery , False,160
+970,Urban,Animals , True,161
+971,Urban,Music , False,161
+972,Urban,Music , False,161
+973,Urban,machinery , False,161
+974,Urban,machinery , False,161
+975,Urban,Animals , True,162
+976,Urban,machinery , False,162
+977,Urban,Loud Talking , False,162
+978,Urban,Music , False,162
+979,Urban,Loud Talking , False,162
+980,Urban,Music , False,162
+981,Urban,Music , False,162
+982,Urban,Music , False,162
+983,Urban,Music , False,162
+984,Urban,Music , False,162
+985,Urban,Loud Talking , False,162
+986,Urban,Loud Talking , False,162
+987,Urban,Music , False,162
+988,Rural,Music , False,162
+989,Urban,Music , False,162
+990,Urban,machinery , False,162
+991,Urban,Loud Talking , False,162
+992,Urban,Loud Talking , False,162
+993,Urban,Loud Talking , False,162
+994,Urban,Music , False,162
+995,Rural,machinery , False,162
+996,Urban,Music , False,162
+997,Urban,Music , False,162
+998,Urban,Music , False,162
+999,Urban,Music , False,162
+1000,Urban,Animals , True,163
